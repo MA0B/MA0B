@@ -3,5 +3,4 @@
 - 🌱 Atualmente, estou focando meus estudos em Java e tenho um conhecimento básico em Python.
 - 💞️ Estou em busca de ampliar meus conhecimentos na área.
 - 📫 Para me encontrar, basta enviar um e-mail para morrice016@outlook.com.
-- 😄 Pronomes: ele/dele.
 - ⚡ Curiosidade: Sou fã de anime, e minha frase favorita é: "Guarde a experiência como um tesouro, porque os sonhos desaparecem depois que você acorda."
